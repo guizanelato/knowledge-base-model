@@ -48,7 +48,7 @@ Para identificar tags específicas a partir do _universal c-tags_, é preciso ad
 
 ### fzf
 
-O FZF é um utilitário de linha de comando que permite fazer buscas de arquivos de forma rápida e eficiente. No diretório `scripts` há um _wrapper_ que associa o uso do `grep`com o `fzf` a fim de buscar por palavras chave dentro dos arquivos.
+O FZF é um utilitário de linha de comando que permite fazer buscas de arquivos de forma rápida e eficiente. 
 
 ## Workflow
 
@@ -60,7 +60,7 @@ Para utilizar desde repositório e de sua estrutura, é recomendável:
 
 1. Ter o vim instalado
 1. Ter o universal-ctags instalado
-1. Tero [fzf](https://github.com/junegunn/fzf)
+1. Ter o [fzf](https://github.com/junegunn/fzf) instalado.
 
 Em distribuições Linux, esse tipo de instalação é bastante simples utilizando o seu gerenciador de pacotes favorito. No meu caso, utilizo a distribuição Ubuntu, na versão 20.04 e para instalar ambos os pacotes com o **apt** utilizei o seguinte comando:
 
