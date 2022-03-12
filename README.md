@@ -36,9 +36,10 @@ Os principais atributos nativos do VIM são:
 
 ### Estrutura de Diretórios
 
-Pense neste repositório como uma base universal de notas. É possível utilizá-lo como unidades a partir de uma finalidade (por exemplo a escrita de um livro, dissertação, etc.) ou pensar como um repositório total, contendo todas as suas anotações e reflexões, as quais podem ser utilizadas posteriormente através de referências através de tags. Atualmente a estrutura de diretórios possui o seguinte formato:
+Pense neste repositório como uma base universal de notas. É possível utilizá-lo como unidades a partir de uma finalidade (por exemplo a escrita de um livro, dissertação, etc.) ou pensar como um repositório total, contendo todas as suas anotações e reflexões, as quais podem ser utilizadas posteriormente através de referências através de tags e links. Atualmente a estrutura de diretórios possui o seguinte formato:
 
 ```
+ TO DO - add tree output
 
 ```
 
@@ -52,11 +53,11 @@ O FZF é um utilitário de linha de comando que permite fazer buscas de arquivos
 
 ## Workflow
 
-
+TO DO
 
 ## Requisitos
 
-Para utilizar desde repositório e de sua estrutura, é recomendável:
+Para utilizar-se destee repositório e de sua estrutura, é recomendável:
 
 1. Ter o vim instalado
 1. Ter o universal-ctags instalado
@@ -69,10 +70,18 @@ Em distribuições Linux, esse tipo de instalação é bastante simples utilizan
 
 ```
 
+Além dos utilitários, existem extensões do VIM que podem ser úteis:
+
+1. Goyo
+1. SoftPencil
+1. Limelight
+1. fzf
+
+Não são obrigatórias, mas permitem que todas as ações sejam feitas pelo próprio VIM, além de ter uma interface amigável para produção de textos.
 
 ## Referências
 
 - [Custom Note Tagging System with Ctags and Vim](https://www.edwinwenink.xyz/posts/43-notes_tagging/)
-- [VIM notetaking](Building a Note-taking System with Vanilla Vim)
+- [VIM notetaking](https://www.edwinwenink.xyz/posts/42-vim_notetaking/)
 - ["New" Zettelkasten](https://zettelkasten.de/)
 - [Zettelkasten](https://niklas-luhmann-archiv.de/bestand/zettelkasten/inhaltsuebersicht#ZK_1_editor_I_45-11)

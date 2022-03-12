@@ -1,6 +1,6 @@
 # Notes
 
-Uma possível interpretação para _notas_ a partir do modelo Zettelkasten [[1]](#1), é aquela que pensa uma nota como uma forma de explicar o ponto de vista de uma fonte de informação sobre os seus termos. Um arquivo de nota deve então conter informações como uma espécie de resumo sobre uma fonte, e que este resumo seja capaz de ser utilizado como base de apoio para outros projetos. 
+Uma possível interpretação para _notas_ a partir do modelo Zettelkasten [[1]](#\[1\]), é aquela que pensa uma nota como uma forma de explicar o ponto de vista de uma fonte de informação sobre os seus termos. Um arquivo de nota deve então conter informações como uma espécie de resumo sobre uma fonte, e que este resumo seja capaz de ser utilizado como base de apoio para outros projetos. 
 
 Há também quem entenda que as notas são uma forma de consolidação de conhecimento, a qual utilizamos o texto em questão como um exercício de explicação sobre uma determinada fonte de informação a fim de reforçar a aprendizagem e deixar em aberto novas conexões [[2]](#2) .
 
@@ -54,3 +54,11 @@ Note que ao apertar `<ENTER>`, o VIM retornará a seguinte mensagem:
 ```
 
 > É importante destacar que o ato de adicionar uma nota com o comando `NewNote` não implica que o arquivo esteja salvo em disco. Como informado anteriormente, o VIM cria esse aquivo no _buffer_, e este precisa ser salvo em disco através dos comandos de salvamento do VIM tais como `:w`, `:x` ou até mesmo através da sequência `<SHIFT>+ZZ`.
+
+## Referências
+
+#### [1] : https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method
+
+#### [2] : https://www.edwinwenink.xyz/posts/59-writing_not_collecting/
+
+
